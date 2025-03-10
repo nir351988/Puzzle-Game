@@ -146,6 +146,11 @@ To test the game, follow these steps:
    - Invite a small group of testers to download and play the game.
    - Gather feedback and fix any reported issues.
 
+## Demo
+
+You can access the demo of the game at the following URL:
+[https://nir351988.github.io/Puzzle-Game/](https://nir351988.github.io/Puzzle-Game/)
+
 ## Contributions & Feedback
 
 Contributions are welcome! If you have suggestions or improvements—especially around mobile optimizations—please open an issue or submit a pull request.
