@@ -1,0 +1,11 @@
+# filepath: d:\Coding-Ninad\PuzzleSaga-Game\.gitlab-ci.yml
+image: node:latest
+
+pages:
+  script:
+    - mkdir .public
+    - cp -r * .public
+    - mv .public public
+  artifacts:
+    paths:
+      - public
